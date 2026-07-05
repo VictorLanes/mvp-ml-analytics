@@ -1,6 +1,6 @@
 # MVP - Machine Learning & Analytics: Risco de Saúde Materna
 
-Projeto de MVP individual da disciplina de Machine Learning & Analytics, com o objetivo de classificar o nível de risco de saúde materna (baixo, médio ou alto) a partir de sinais vitais coletados por um sistema de monitoramento IoT em áreas rurais de Bangladesh.
+Projeto de MVP disciplina de Machine Learning & Analytics, Foi desenvolvido com o objetivo de classificar o nível de risco de saúde materna (baixo, médio ou alto) a partir de sinais vitais coletados por um sistema de monitoramento IoT em áreas rurais de Bangladesh.
 
 ## Dataset
 
